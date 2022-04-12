@@ -1,0 +1,40 @@
+.dropdown-item
+{
+		background:#3399FF;
+		border : 0.5px solid #FFFF66;
+	
+}
+.slide1
+{
+		width:100%;
+		
+}
+.mess1
+{
+	margin-top:-100px;
+}
+.bg-black{
+	background-color: #000000;
+}
+.service_name{
+	line-height: 18px;
+}
+.service_name .name{
+	font-size: 30px;
+}
+.service_name .desc{
+	font-size: 15px;
+	opacity: 0.8;
+}
+.container_header .menu i{
+	font-size: 30px;
+}
+.name_page{
+	font-size: 50px;
+}
+.name_center{
+	font-size: 35px;
+}
+.container_center_footer{
+	height: 100px;
+}

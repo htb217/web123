@@ -1,0 +1,57 @@
+
+
+.mess1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40PX;
+    color:#FF6A6A;
+    height:50px;
+}
+
+.mess2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height:50px;
+}
+
+.rowa{
+    height: 100px;
+    
+    /* background-color: #e6ffff; */
+}
+
+.rowb{
+    height: 500px;
+    /* background-color: #ffe6e6; */
+
+}
+
+.btnb{
+    width: 400px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 30px;
+    font-size:30px
+    
+}
+.fa--colors{
+    color:#666666;
+}
+.fa--colorss{
+    color: #FFCC66;
+}
+.fa--colorsss{
+    color: #66FFFF;
+}
+.fa--colorsa{
+color:#555555;
+}
+.fa--font-size{
+	font-size: 30px;
+	
+}
+
+
